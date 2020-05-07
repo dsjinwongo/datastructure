@@ -1,2 +1,0 @@
-# datastructure
-for datastructure
